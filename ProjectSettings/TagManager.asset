@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - 'Weapon '
+  - Ammo
+  - Other
+  - Makarov
+  - Ak
+  - Armor
+  - Pants
+  - Helm
+  - Bag
+  - Bullet
+  - Enemy
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 1013923547
+    locked: 0
+  - name: player
+    uniqueID: 678856835
+    locked: 0
+  - name: joystick
+    uniqueID: 3835664151
+    locked: 0
+  - name: weapon
+    uniqueID: 1938339021
+    locked: 0
+  - name: Canvas
+    uniqueID: 2294420181
+    locked: 0
+  - name: UI
+    uniqueID: 3786857421
+    locked: 0
